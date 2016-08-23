@@ -1,4 +1,4 @@
-# My Rmdshower
+# My ioslides
 
 [![](http://www.r-pkg.org/badges/version/rmarkdown)](http://www.r-pkg.org/pkg/rmarkdown)
 

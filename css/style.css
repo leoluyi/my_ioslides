@@ -1633,8 +1633,20 @@ kbd {
 	padding:.1em .6em;
 	text-shadow:0 1px 0 #fff;
 }
-
 .emphasized {
     font-size: 2.0em;
     font-weight: bold;
+}
+/* Fix MathJax */
+.MathJax {
+  font-size: 1.0em !important;
+}
+/* datatable font */
+td {
+  font-size: 60%;
+}
+/* dotted underline */
+underline {
+    border-bottom-color: green;
+    border-bottom: 0.2em dotted orange;
 }
